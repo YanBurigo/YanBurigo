@@ -151,7 +151,7 @@
 <img width="100%" src="./assets/binary-separator.gif" />
 </div>
 
-<style>
+<style hidden>
 
 .linkedin{
    margin-top: 10px;
