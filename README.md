@@ -149,4 +149,10 @@
 ---
 
 <img width="100%" src="./assets/binary-separator.gif" />
+
+<a style="margin-top: 10px;" href="mailto:yan.burigo@outlook.com" target="_blank" rel="noreferrer"> 
+   <p>Contact me</p>
+   <img src="./assets/contact.png" alt="RabbitMQ" height="60"/> 
+</a>
+
 </div>
