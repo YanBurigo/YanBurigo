@@ -1,16 +1,14 @@
 <div align="center">
-
-<img width="100%" src="./assets/binary-separator.gif" />
-
+   
 <div>
    <h1>Hi there <img src="./assets/to-wave.gif" width="30px"/></h1>
    <h3>🔵 My name is Yan 🔵</h3>
    <h3>🔵 Nice to meet you! 🔵</h3>
-   <h3>🔵 Developer Analyst at NDD Tech 🔵</h3>
-   <h3>🔵 Computer Science Student at IFSC Campus Lages 🔵</h3>
-   <h3>🔵 Microservices and Azure enthusiast 🔵</h3>
+   <h3>🔵 Tech Leader at NDD Tech 🔵</h3>
+   <h3>🔵 Microservices and Azure Specialist 🔵</h3>
+   <h3>🔵 React Native enthusiast 🔵</h3>
    <h3>🔵 <a href="https://yanburigo.github.io/">Visit my Github Pages!</a> 🔵</h3>
-   <a href="https://br.linkedin.com/in/yan-burigo-673310218" target="_blank" rel="noreferrer"> 
+   <a href="https://br.linkedin.com/in/yan-burigo" target="_blank" rel="noreferrer"> 
       <img style="margin-top: 10px;" height="40em" alt="Linkedin" src="./assets/linkedin.png"/> 
    </a>
 </div>
@@ -147,8 +145,6 @@
 </div>
 
 ---
-
-<img width="100%" src="./assets/binary-separator.gif" />
 
 <a style="margin-top: 10px;" href="mailto:yan.burigo@outlook.com" target="_blank" rel="noreferrer"> 
    <p>Contact me</p>
