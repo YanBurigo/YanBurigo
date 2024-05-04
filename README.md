@@ -4,7 +4,7 @@
    <h1>Hi there <img src="./assets/to-wave.gif" width="30px"/></h1>
    <h3>🔵 My name is Yan 🔵</h3>
    <h3>🔵 Nice to meet you! 🔵</h3>
-   <h3>🔵 Software Enginer at Credisfera 🔵</h3>
+   <h3>🔵 Software Enginer at Vindi 🔵</h3>
    <h3>🔵 Microservices and Azure Specialist 🔵</h3>
    <h3>🔵 React Native enthusiast 🔵</h3>
    <h3>🔵 <a href="https://yanburigo.github.io/">Visit my Github Pages!</a> 🔵</h3>
